@@ -1,5 +1,7 @@
 # Optical Bead Quantum Computing
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## A Multi-Valued Photonic Paradigm for Light-Based Information Processing
 
 **Optical Bead Quantum Computing** is a conceptual framework for using the multiple degrees of freedom of light—such as wavelength, color, polarization, phase, intensity, time, spatial arrangement, optical path, and interference—to represent information not only as binary 0 and 1, but also as multi-valued, parallel, and structured photonic patterns.
