@@ -403,7 +403,6 @@ Optical Bead Quantum Computing is one proposed design path for exploring those q
 ## Related Links
 
 * NOTE article: 光量子コンピュータ：多値フォトニックパラダイム（光珠量子計算）
-  https://note.com/inchacomusho/n/ndd3f8a35af41
 
 * Optical Bead Computing
   https://github.com/InchaComisho/Optical-Bead-Quantum-Computing-A-Multi-Valued-Photonic-Paradigm

@@ -403,7 +403,6 @@ AI時代には、大量のデータを高次元のパターンとして扱う必
 ## Related Links / 関連リンク
 
 * NOTE article: 光量子コンピュータ：多値フォトニックパラダイム（光珠量子計算）
-  https://note.com/inchacomusho/n/ndd3f8a35af41
 
 * Optical Bead Computing
   https://github.com/InchaComisho/Optical-Bead-Quantum-Computing-A-Multi-Valued-Photonic-Paradigm
