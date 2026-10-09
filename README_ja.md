@@ -1,5 +1,7 @@
 # 光量子コンピュータ：多値フォトニックパラダイム（光珠量子計算）
 
+[English Version](README.md)
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
 
 ## そろばん構造・光ビード・多値フォトニック状態による次世代計算フレームワーク
